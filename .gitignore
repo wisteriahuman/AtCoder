@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Notebooks
+.ipynb_checkpoints/
+# 環境ファイル
+.env
+# データ出力/入力（大きいファイルは追跡しない）
+data/
+input/
+output/
+*.csv
